@@ -1,0 +1,61 @@
+$ python two.py one.py one.py 
+==> one.py<==
+    res = []
+    for num, i in enumerate(lines):
+        a = str(num + 1) + ' ' + i
+        res.append(a)
+    for line in res:
+            print(line.rstrip('\n'))
+
+
+if __name__ == "__main__":
+    cli()
+==> one.py<==
+    res = []
+    for num, i in enumerate(lines):
+        a = str(num + 1) + ' ' + i
+        res.append(a)
+    for line in res:
+            print(line.rstrip('\n'))
+
+
+if __name__ == "__main__":
+    cli()
+$ python two.py
+q
+w
+e
+r
+t
+y
+u
+i
+o
+p
+[
+]
+a
+s
+d
+f
+g
+h
+j
+k
+r
+t
+y
+u
+i
+o
+p
+[
+]
+a
+s
+d
+f
+g
+h
+j
+k

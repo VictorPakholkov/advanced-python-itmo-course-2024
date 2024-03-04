@@ -1,0 +1,36 @@
+victorpakholkov (main #) hw_1
+$ python one.py one.py 
+1 import sys
+2 
+3 def cli(lines):
+4     res = []
+5     for num, i in enumerate(lines):
+6         a = str(num + 1) + ' ' + i
+7         res.append(a)
+8     return res
+9     
+10 
+11 if __name__ == "__main__":
+12     args = sys.argv
+13     lines = []
+14     if len(args) > 1:
+15         with open(args[1], 'r') as f:
+16             lines = f.readlines()
+17     else:
+18         for line in sys.stdin:
+19             lines.append(line)
+20     res = cli(lines)
+21     for line in res:
+22         print(line.rstrip('\n'))
+victorpakholkov (main #) hw_1
+$ python one.py
+ggg
+ddd
+ggg
+aaa
+1 ggg
+2 ddd
+3 ggg
+4 aaa
+victorpakholkov (main #) hw_1
+$ 

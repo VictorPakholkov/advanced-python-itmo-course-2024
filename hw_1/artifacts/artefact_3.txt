@@ -1,0 +1,14 @@
+victorpakholkov (main *) hw_1
+$ python three.py 
+ff
+hgh
+dds
+^D      2	3	11
+victorpakholkov (main *) hw_1
+$ python three.py one.py
+	20	57	426	one.py
+victorpakholkov (main *) hw_1
+$ python three.py one.py one.py 
+	20	57	426	one.py
+	20	57	426	one.py
+	40	114	852	total
