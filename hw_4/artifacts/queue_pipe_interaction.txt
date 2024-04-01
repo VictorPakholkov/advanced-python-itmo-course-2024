@@ -1,0 +1,35 @@
+2024-04-01 23:40:16,913 - Main Process: Sending message: Hello
+2024-04-01 23:40:16,913 - Process A: Received message: Hello
+2024-04-01 23:40:16,914 - Process B: Received message: hello
+2024-04-01 23:40:21,913 - Main Process: Sending message: World
+2024-04-01 23:40:21,914 - Process A: Received message: World
+2024-04-01 23:40:21,914 - Process B: Encoded message: uryyb
+2024-04-01 23:40:21,915 - Process B: Received message: world
+2024-04-01 23:40:21,915 - Main Process: Received encoded message: uryyb
+2024-04-01 23:40:26,914 - Main Process: Sending message: Multiprocessing
+2024-04-01 23:40:26,915 - Process A: Received message: Multiprocessing
+2024-04-01 23:40:26,915 - Process B: Encoded message: jbeyq
+2024-04-01 23:40:26,915 - Process B: Received message: multiprocessing
+2024-04-01 23:40:26,915 - Main Process: Received encoded message: jbeyq
+2024-04-01 23:40:31,915 - Main Process: Sending message: Queue
+2024-04-01 23:40:31,915 - Process A: Received message: Queue
+2024-04-01 23:40:31,915 - Process B: Encoded message: zhygvcebprffvat
+2024-04-01 23:40:31,915 - Process B: Received message: queue
+2024-04-01 23:40:31,915 - Main Process: Received encoded message: zhygvcebprffvat
+2024-04-01 23:40:36,915 - Main Process: Sending message: Rot13
+2024-04-01 23:40:36,916 - Process B: Encoded message: dhrhr
+2024-04-01 23:40:38,525 - Process A: Received message: Rot13
+2024-04-01 23:40:38,525 - Main Process: Received encoded message: dhrhr
+2024-04-01 23:40:38,525 - Process B: Received message: rot13
+2024-04-01 23:40:43,525 - Main Process: Sending message: I Love ADVanCed PythOn
+2024-04-01 23:40:43,525 - Process A: Received message: I Love ADVanCed PythOn
+2024-04-01 23:40:43,525 - Process B: Encoded message: ebg13
+2024-04-01 23:40:43,525 - Process B: Received message: i love advanced python
+2024-04-01 23:40:43,526 - Main Process: Received encoded message: ebg13
+2024-04-01 23:40:48,525 - Main Process: Sending message: ITMO, HSE, SPBSU
+2024-04-01 23:40:48,526 - Process B: Encoded message: v ybir nqinaprq clguba
+2024-04-01 23:40:48,526 - Process A: Received message: ITMO, HSE, SPBSU
+2024-04-01 23:40:48,526 - Main Process: Received encoded message: v ybir nqinaprq clguba
+2024-04-01 23:40:48,526 - Process B: Received message: itmo, hse, spbsu
+2024-04-01 23:40:53,527 - Process B: Encoded message: vgzb, ufr, fcofh
+2024-04-01 23:40:53,527 - Main Process: Received encoded message: vgzb, ufr, fcofh

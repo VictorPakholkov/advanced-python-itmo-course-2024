@@ -1,0 +1,3 @@
+Synchronous Execution Time: 8.429934740066528 
+Multiprocessing Execution Time: 2.7184085845947266 
+Threading Execution Time: 8.941273212432861 
