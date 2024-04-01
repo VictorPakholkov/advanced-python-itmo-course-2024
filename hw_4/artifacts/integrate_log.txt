@@ -1,0 +1,336 @@
+2024-04-01 23:21:03,950 - Starting integration with ThreadPoolExecutor and 1 workers
+2024-04-01 23:21:03,950 - Starting task: func=<built-in function cos>, start=0, end=1.5707963267948966, n_steps=100000
+2024-04-01 23:21:03,956 - Integration completed in 0.006487846374511719 seconds with 1 workers
+2024-04-01 23:21:03,956 - Starting integration with ProcessPoolExecutor and 1 workers
+2024-04-01 23:21:04,625 - Starting task: func=<built-in function cos>, start=0, end=1.5707963267948966, n_steps=100000
+2024-04-01 23:21:04,642 - Integration completed in 0.6857380867004395 seconds with 1 workers
+2024-04-01 23:21:04,642 - Starting integration with ThreadPoolExecutor and 2 workers
+2024-04-01 23:21:04,654 - Starting task: func=<built-in function cos>, start=0, end=50000, n_steps=50000
+2024-04-01 23:21:04,665 - Starting task: func=<built-in function cos>, start=50000, end=100000, n_steps=50000
+2024-04-01 23:21:04,676 - Integration completed in 0.0339047908782959 seconds with 2 workers
+2024-04-01 23:21:04,676 - Starting integration with ProcessPoolExecutor and 2 workers
+2024-04-01 23:21:04,677 - Starting task: func=<built-in function cos>, start=0, end=50000, n_steps=50000
+2024-04-01 23:21:04,682 - Starting task: func=<built-in function cos>, start=50000, end=100000, n_steps=50000
+2024-04-01 23:21:04,689 - Integration completed in 0.012666940689086914 seconds with 2 workers
+2024-04-01 23:21:04,689 - Starting integration with ThreadPoolExecutor and 3 workers
+2024-04-01 23:21:04,689 - Starting task: func=<built-in function cos>, start=0, end=33333, n_steps=33333
+2024-04-01 23:21:04,689 - Starting task: func=<built-in function cos>, start=33333, end=66666, n_steps=33333
+2024-04-01 23:21:04,694 - Starting task: func=<built-in function cos>, start=66666, end=99999, n_steps=33333
+2024-04-01 23:21:04,705 - Integration completed in 0.016550302505493164 seconds with 3 workers
+2024-04-01 23:21:04,705 - Starting integration with ProcessPoolExecutor and 3 workers
+2024-04-01 23:21:04,706 - Starting task: func=<built-in function cos>, start=0, end=33333, n_steps=33333
+2024-04-01 23:21:04,710 - Starting task: func=<built-in function cos>, start=33333, end=66666, n_steps=33333
+2024-04-01 23:21:04,713 - Starting task: func=<built-in function cos>, start=66666, end=99999, n_steps=33333
+2024-04-01 23:21:04,715 - Integration completed in 0.009910345077514648 seconds with 3 workers
+2024-04-01 23:21:04,715 - Starting integration with ThreadPoolExecutor and 4 workers
+2024-04-01 23:21:04,716 - Starting task: func=<built-in function cos>, start=0, end=25000, n_steps=25000
+2024-04-01 23:21:04,716 - Starting task: func=<built-in function cos>, start=25000, end=50000, n_steps=25000
+2024-04-01 23:21:04,718 - Starting task: func=<built-in function cos>, start=50000, end=75000, n_steps=25000
+2024-04-01 23:21:04,718 - Starting task: func=<built-in function cos>, start=75000, end=100000, n_steps=25000
+2024-04-01 23:21:04,724 - Integration completed in 0.008514881134033203 seconds with 4 workers
+2024-04-01 23:21:04,724 - Starting integration with ProcessPoolExecutor and 4 workers
+2024-04-01 23:21:04,724 - Starting task: func=<built-in function cos>, start=0, end=25000, n_steps=25000
+2024-04-01 23:21:04,726 - Starting task: func=<built-in function cos>, start=25000, end=50000, n_steps=25000
+2024-04-01 23:21:04,728 - Starting task: func=<built-in function cos>, start=50000, end=75000, n_steps=25000
+2024-04-01 23:21:04,728 - Starting task: func=<built-in function cos>, start=75000, end=100000, n_steps=25000
+2024-04-01 23:21:04,732 - Integration completed in 0.007970333099365234 seconds with 4 workers
+2024-04-01 23:21:04,732 - Starting integration with ThreadPoolExecutor and 5 workers
+2024-04-01 23:21:04,732 - Starting task: func=<built-in function cos>, start=0, end=20000, n_steps=20000
+2024-04-01 23:21:04,732 - Starting task: func=<built-in function cos>, start=20000, end=40000, n_steps=20000
+2024-04-01 23:21:04,734 - Starting task: func=<built-in function cos>, start=40000, end=60000, n_steps=20000
+2024-04-01 23:21:04,734 - Starting task: func=<built-in function cos>, start=60000, end=80000, n_steps=20000
+2024-04-01 23:21:04,734 - Starting task: func=<built-in function cos>, start=80000, end=100000, n_steps=20000
+2024-04-01 23:21:04,741 - Integration completed in 0.008620262145996094 seconds with 5 workers
+2024-04-01 23:21:04,741 - Starting integration with ProcessPoolExecutor and 5 workers
+2024-04-01 23:21:04,741 - Starting task: func=<built-in function cos>, start=0, end=20000, n_steps=20000
+2024-04-01 23:21:04,742 - Starting task: func=<built-in function cos>, start=20000, end=40000, n_steps=20000
+2024-04-01 23:21:04,744 - Starting task: func=<built-in function cos>, start=40000, end=60000, n_steps=20000
+2024-04-01 23:21:04,744 - Starting task: func=<built-in function cos>, start=60000, end=80000, n_steps=20000
+2024-04-01 23:21:04,744 - Starting task: func=<built-in function cos>, start=80000, end=100000, n_steps=20000
+2024-04-01 23:21:04,750 - Integration completed in 0.009193658828735352 seconds with 5 workers
+2024-04-01 23:21:04,750 - Starting integration with ThreadPoolExecutor and 6 workers
+2024-04-01 23:21:04,750 - Starting task: func=<built-in function cos>, start=0, end=16666, n_steps=16666
+2024-04-01 23:21:04,752 - Starting task: func=<built-in function cos>, start=16666, end=33332, n_steps=16666
+2024-04-01 23:21:04,752 - Starting task: func=<built-in function cos>, start=33332, end=49998, n_steps=16666
+2024-04-01 23:21:04,757 - Starting task: func=<built-in function cos>, start=49998, end=66664, n_steps=16666
+2024-04-01 23:21:04,759 - Starting task: func=<built-in function cos>, start=66664, end=83330, n_steps=16666
+2024-04-01 23:21:04,761 - Starting task: func=<built-in function cos>, start=83330, end=99996, n_steps=16666
+2024-04-01 23:21:04,764 - Integration completed in 0.014063835144042969 seconds with 6 workers
+2024-04-01 23:21:04,764 - Starting integration with ProcessPoolExecutor and 6 workers
+2024-04-01 23:21:04,764 - Starting task: func=<built-in function cos>, start=0, end=16666, n_steps=16666
+2024-04-01 23:21:04,765 - Starting task: func=<built-in function cos>, start=16666, end=33332, n_steps=16666
+2024-04-01 23:21:04,766 - Starting task: func=<built-in function cos>, start=33332, end=49998, n_steps=16666
+2024-04-01 23:21:04,767 - Starting task: func=<built-in function cos>, start=49998, end=66664, n_steps=16666
+2024-04-01 23:21:04,769 - Starting task: func=<built-in function cos>, start=66664, end=83330, n_steps=16666
+2024-04-01 23:21:04,769 - Starting task: func=<built-in function cos>, start=83330, end=99996, n_steps=16666
+2024-04-01 23:21:04,778 - Integration completed in 0.014098882675170898 seconds with 6 workers
+2024-04-01 23:21:04,778 - Starting integration with ThreadPoolExecutor and 7 workers
+2024-04-01 23:21:04,779 - Starting task: func=<built-in function cos>, start=0, end=14285, n_steps=14285
+2024-04-01 23:21:04,781 - Starting task: func=<built-in function cos>, start=14285, end=28570, n_steps=14285
+2024-04-01 23:21:04,784 - Starting task: func=<built-in function cos>, start=28570, end=42855, n_steps=14285
+2024-04-01 23:21:04,786 - Starting task: func=<built-in function cos>, start=42855, end=57140, n_steps=14285
+2024-04-01 23:21:04,787 - Starting task: func=<built-in function cos>, start=57140, end=71425, n_steps=14285
+2024-04-01 23:21:04,789 - Starting task: func=<built-in function cos>, start=71425, end=85710, n_steps=14285
+2024-04-01 23:21:04,791 - Starting task: func=<built-in function cos>, start=85710, end=99995, n_steps=14285
+2024-04-01 23:21:04,793 - Integration completed in 0.014667510986328125 seconds with 7 workers
+2024-04-01 23:21:04,793 - Starting integration with ProcessPoolExecutor and 7 workers
+2024-04-01 23:21:04,794 - Starting task: func=<built-in function cos>, start=0, end=14285, n_steps=14285
+2024-04-01 23:21:04,796 - Starting task: func=<built-in function cos>, start=14285, end=28570, n_steps=14285
+2024-04-01 23:21:04,797 - Starting task: func=<built-in function cos>, start=28570, end=42855, n_steps=14285
+2024-04-01 23:21:04,799 - Starting task: func=<built-in function cos>, start=42855, end=57140, n_steps=14285
+2024-04-01 23:21:04,800 - Starting task: func=<built-in function cos>, start=57140, end=71425, n_steps=14285
+2024-04-01 23:21:04,801 - Starting task: func=<built-in function cos>, start=71425, end=85710, n_steps=14285
+2024-04-01 23:21:04,803 - Starting task: func=<built-in function cos>, start=85710, end=99995, n_steps=14285
+2024-04-01 23:21:04,804 - Integration completed in 0.010823726654052734 seconds with 7 workers
+2024-04-01 23:21:04,804 - Starting integration with ThreadPoolExecutor and 8 workers
+2024-04-01 23:21:04,804 - Starting task: func=<built-in function cos>, start=0, end=12500, n_steps=12500
+2024-04-01 23:21:04,805 - Starting task: func=<built-in function cos>, start=12500, end=25000, n_steps=12500
+2024-04-01 23:21:04,806 - Starting task: func=<built-in function cos>, start=25000, end=37500, n_steps=12500
+2024-04-01 23:21:04,806 - Starting task: func=<built-in function cos>, start=37500, end=50000, n_steps=12500
+2024-04-01 23:21:04,807 - Starting task: func=<built-in function cos>, start=50000, end=62500, n_steps=12500
+2024-04-01 23:21:04,809 - Starting task: func=<built-in function cos>, start=62500, end=75000, n_steps=12500
+2024-04-01 23:21:04,809 - Starting task: func=<built-in function cos>, start=75000, end=87500, n_steps=12500
+2024-04-01 23:21:04,810 - Starting task: func=<built-in function cos>, start=87500, end=100000, n_steps=12500
+2024-04-01 23:21:04,813 - Integration completed in 0.00878286361694336 seconds with 8 workers
+2024-04-01 23:21:04,813 - Starting integration with ProcessPoolExecutor and 8 workers
+2024-04-01 23:21:04,813 - Starting task: func=<built-in function cos>, start=0, end=12500, n_steps=12500
+2024-04-01 23:21:04,814 - Starting task: func=<built-in function cos>, start=12500, end=25000, n_steps=12500
+2024-04-01 23:21:04,815 - Starting task: func=<built-in function cos>, start=25000, end=37500, n_steps=12500
+2024-04-01 23:21:04,816 - Starting task: func=<built-in function cos>, start=37500, end=50000, n_steps=12500
+2024-04-01 23:21:04,816 - Starting task: func=<built-in function cos>, start=50000, end=62500, n_steps=12500
+2024-04-01 23:21:04,816 - Starting task: func=<built-in function cos>, start=62500, end=75000, n_steps=12500
+2024-04-01 23:21:04,817 - Starting task: func=<built-in function cos>, start=75000, end=87500, n_steps=12500
+2024-04-01 23:21:04,818 - Starting task: func=<built-in function cos>, start=87500, end=100000, n_steps=12500
+2024-04-01 23:21:04,821 - Integration completed in 0.008646249771118164 seconds with 8 workers
+2024-04-01 23:21:04,821 - Starting integration with ThreadPoolExecutor and 9 workers
+2024-04-01 23:21:04,821 - Starting task: func=<built-in function cos>, start=0, end=11111, n_steps=11111
+2024-04-01 23:21:04,822 - Starting task: func=<built-in function cos>, start=11111, end=22222, n_steps=11111
+2024-04-01 23:21:04,823 - Starting task: func=<built-in function cos>, start=22222, end=33333, n_steps=11111
+2024-04-01 23:21:04,824 - Starting task: func=<built-in function cos>, start=33333, end=44444, n_steps=11111
+2024-04-01 23:21:04,824 - Starting task: func=<built-in function cos>, start=44444, end=55555, n_steps=11111
+2024-04-01 23:21:04,825 - Starting task: func=<built-in function cos>, start=55555, end=66666, n_steps=11111
+2024-04-01 23:21:04,825 - Starting task: func=<built-in function cos>, start=66666, end=77777, n_steps=11111
+2024-04-01 23:21:04,825 - Starting task: func=<built-in function cos>, start=77777, end=88888, n_steps=11111
+2024-04-01 23:21:04,826 - Starting task: func=<built-in function cos>, start=88888, end=99999, n_steps=11111
+2024-04-01 23:21:04,830 - Integration completed in 0.008637428283691406 seconds with 9 workers
+2024-04-01 23:21:04,830 - Starting integration with ProcessPoolExecutor and 9 workers
+2024-04-01 23:21:04,830 - Starting task: func=<built-in function cos>, start=0, end=11111, n_steps=11111
+2024-04-01 23:21:04,831 - Starting task: func=<built-in function cos>, start=11111, end=22222, n_steps=11111
+2024-04-01 23:21:04,832 - Starting task: func=<built-in function cos>, start=22222, end=33333, n_steps=11111
+2024-04-01 23:21:04,832 - Starting task: func=<built-in function cos>, start=33333, end=44444, n_steps=11111
+2024-04-01 23:21:04,833 - Starting task: func=<built-in function cos>, start=44444, end=55555, n_steps=11111
+2024-04-01 23:21:04,835 - Starting task: func=<built-in function cos>, start=55555, end=66666, n_steps=11111
+2024-04-01 23:21:04,835 - Starting task: func=<built-in function cos>, start=66666, end=77777, n_steps=11111
+2024-04-01 23:21:04,836 - Starting task: func=<built-in function cos>, start=77777, end=88888, n_steps=11111
+2024-04-01 23:21:04,836 - Starting task: func=<built-in function cos>, start=88888, end=99999, n_steps=11111
+2024-04-01 23:21:04,839 - Integration completed in 0.008759021759033203 seconds with 9 workers
+2024-04-01 23:21:04,839 - Starting integration with ThreadPoolExecutor and 10 workers
+2024-04-01 23:21:04,839 - Starting task: func=<built-in function cos>, start=0, end=10000, n_steps=10000
+2024-04-01 23:21:04,840 - Starting task: func=<built-in function cos>, start=10000, end=20000, n_steps=10000
+2024-04-01 23:21:04,841 - Starting task: func=<built-in function cos>, start=20000, end=30000, n_steps=10000
+2024-04-01 23:21:04,841 - Starting task: func=<built-in function cos>, start=30000, end=40000, n_steps=10000
+2024-04-01 23:21:04,841 - Starting task: func=<built-in function cos>, start=40000, end=50000, n_steps=10000
+2024-04-01 23:21:04,841 - Starting task: func=<built-in function cos>, start=50000, end=60000, n_steps=10000
+2024-04-01 23:21:04,842 - Starting task: func=<built-in function cos>, start=60000, end=70000, n_steps=10000
+2024-04-01 23:21:04,843 - Starting task: func=<built-in function cos>, start=70000, end=80000, n_steps=10000
+2024-04-01 23:21:04,843 - Starting task: func=<built-in function cos>, start=80000, end=90000, n_steps=10000
+2024-04-01 23:21:04,843 - Starting task: func=<built-in function cos>, start=90000, end=100000, n_steps=10000
+2024-04-01 23:21:04,848 - Integration completed in 0.008910179138183594 seconds with 10 workers
+2024-04-01 23:21:04,848 - Starting integration with ProcessPoolExecutor and 10 workers
+2024-04-01 23:21:04,848 - Starting task: func=<built-in function cos>, start=0, end=10000, n_steps=10000
+2024-04-01 23:21:04,849 - Starting task: func=<built-in function cos>, start=10000, end=20000, n_steps=10000
+2024-04-01 23:21:04,850 - Starting task: func=<built-in function cos>, start=20000, end=30000, n_steps=10000
+2024-04-01 23:21:04,850 - Starting task: func=<built-in function cos>, start=30000, end=40000, n_steps=10000
+2024-04-01 23:21:04,851 - Starting task: func=<built-in function cos>, start=40000, end=50000, n_steps=10000
+2024-04-01 23:21:04,852 - Starting task: func=<built-in function cos>, start=50000, end=60000, n_steps=10000
+2024-04-01 23:21:04,852 - Starting task: func=<built-in function cos>, start=60000, end=70000, n_steps=10000
+2024-04-01 23:21:04,852 - Starting task: func=<built-in function cos>, start=70000, end=80000, n_steps=10000
+2024-04-01 23:21:04,853 - Starting task: func=<built-in function cos>, start=80000, end=90000, n_steps=10000
+2024-04-01 23:21:04,853 - Starting task: func=<built-in function cos>, start=90000, end=100000, n_steps=10000
+2024-04-01 23:21:04,857 - Integration completed in 0.008939266204833984 seconds with 10 workers
+2024-04-01 23:21:04,857 - Starting integration with ThreadPoolExecutor and 11 workers
+2024-04-01 23:21:04,857 - Starting task: func=<built-in function cos>, start=0, end=9090, n_steps=9090
+2024-04-01 23:21:04,857 - Starting task: func=<built-in function cos>, start=9090, end=18180, n_steps=9090
+2024-04-01 23:21:04,858 - Starting task: func=<built-in function cos>, start=18180, end=27270, n_steps=9090
+2024-04-01 23:21:04,858 - Starting task: func=<built-in function cos>, start=27270, end=36360, n_steps=9090
+2024-04-01 23:21:04,860 - Starting task: func=<built-in function cos>, start=36360, end=45450, n_steps=9090
+2024-04-01 23:21:04,860 - Starting task: func=<built-in function cos>, start=45450, end=54540, n_steps=9090
+2024-04-01 23:21:04,860 - Starting task: func=<built-in function cos>, start=54540, end=63630, n_steps=9090
+2024-04-01 23:21:04,861 - Starting task: func=<built-in function cos>, start=63630, end=72720, n_steps=9090
+2024-04-01 23:21:04,861 - Starting task: func=<built-in function cos>, start=72720, end=81810, n_steps=9090
+2024-04-01 23:21:04,864 - Starting task: func=<built-in function cos>, start=81810, end=90900, n_steps=9090
+2024-04-01 23:21:04,864 - Starting task: func=<built-in function cos>, start=90900, end=99990, n_steps=9090
+2024-04-01 23:21:04,865 - Integration completed in 0.008636236190795898 seconds with 11 workers
+2024-04-01 23:21:04,865 - Starting integration with ProcessPoolExecutor and 11 workers
+2024-04-01 23:21:04,866 - Starting task: func=<built-in function cos>, start=0, end=9090, n_steps=9090
+2024-04-01 23:21:04,867 - Starting task: func=<built-in function cos>, start=9090, end=18180, n_steps=9090
+2024-04-01 23:21:04,867 - Starting task: func=<built-in function cos>, start=18180, end=27270, n_steps=9090
+2024-04-01 23:21:04,867 - Starting task: func=<built-in function cos>, start=27270, end=36360, n_steps=9090
+2024-04-01 23:21:04,868 - Starting task: func=<built-in function cos>, start=36360, end=45450, n_steps=9090
+2024-04-01 23:21:04,870 - Starting task: func=<built-in function cos>, start=45450, end=54540, n_steps=9090
+2024-04-01 23:21:04,870 - Starting task: func=<built-in function cos>, start=54540, end=63630, n_steps=9090
+2024-04-01 23:21:04,871 - Starting task: func=<built-in function cos>, start=63630, end=72720, n_steps=9090
+2024-04-01 23:21:04,872 - Starting task: func=<built-in function cos>, start=72720, end=81810, n_steps=9090
+2024-04-01 23:21:04,873 - Starting task: func=<built-in function cos>, start=81810, end=90900, n_steps=9090
+2024-04-01 23:21:04,873 - Starting task: func=<built-in function cos>, start=90900, end=99990, n_steps=9090
+2024-04-01 23:21:04,874 - Integration completed in 0.008931398391723633 seconds with 11 workers
+2024-04-01 23:21:04,874 - Starting integration with ThreadPoolExecutor and 12 workers
+2024-04-01 23:21:04,875 - Starting task: func=<built-in function cos>, start=0, end=8333, n_steps=8333
+2024-04-01 23:21:04,875 - Starting task: func=<built-in function cos>, start=8333, end=16666, n_steps=8333
+2024-04-01 23:21:04,875 - Starting task: func=<built-in function cos>, start=16666, end=24999, n_steps=8333
+2024-04-01 23:21:04,876 - Starting task: func=<built-in function cos>, start=24999, end=33332, n_steps=8333
+2024-04-01 23:21:04,878 - Starting task: func=<built-in function cos>, start=33332, end=41665, n_steps=8333
+2024-04-01 23:21:04,878 - Starting task: func=<built-in function cos>, start=41665, end=49998, n_steps=8333
+2024-04-01 23:21:04,878 - Starting task: func=<built-in function cos>, start=49998, end=58331, n_steps=8333
+2024-04-01 23:21:04,879 - Starting task: func=<built-in function cos>, start=58331, end=66664, n_steps=8333
+2024-04-01 23:21:04,881 - Starting task: func=<built-in function cos>, start=66664, end=74997, n_steps=8333
+2024-04-01 23:21:04,881 - Starting task: func=<built-in function cos>, start=74997, end=83330, n_steps=8333
+2024-04-01 23:21:04,882 - Starting task: func=<built-in function cos>, start=83330, end=91663, n_steps=8333
+2024-04-01 23:21:04,883 - Starting task: func=<built-in function cos>, start=91663, end=99996, n_steps=8333
+2024-04-01 23:21:04,884 - Integration completed in 0.009150028228759766 seconds with 12 workers
+2024-04-01 23:21:04,884 - Starting integration with ProcessPoolExecutor and 12 workers
+2024-04-01 23:21:04,884 - Starting task: func=<built-in function cos>, start=0, end=8333, n_steps=8333
+2024-04-01 23:21:04,884 - Starting task: func=<built-in function cos>, start=8333, end=16666, n_steps=8333
+2024-04-01 23:21:04,885 - Starting task: func=<built-in function cos>, start=16666, end=24999, n_steps=8333
+2024-04-01 23:21:04,885 - Starting task: func=<built-in function cos>, start=24999, end=33332, n_steps=8333
+2024-04-01 23:21:04,885 - Starting task: func=<built-in function cos>, start=33332, end=41665, n_steps=8333
+2024-04-01 23:21:04,885 - Starting task: func=<built-in function cos>, start=41665, end=49998, n_steps=8333
+2024-04-01 23:21:04,885 - Starting task: func=<built-in function cos>, start=49998, end=58331, n_steps=8333
+2024-04-01 23:21:04,886 - Starting task: func=<built-in function cos>, start=58331, end=66664, n_steps=8333
+2024-04-01 23:21:04,886 - Starting task: func=<built-in function cos>, start=66664, end=74997, n_steps=8333
+2024-04-01 23:21:04,887 - Starting task: func=<built-in function cos>, start=74997, end=83330, n_steps=8333
+2024-04-01 23:21:04,887 - Starting task: func=<built-in function cos>, start=83330, end=91663, n_steps=8333
+2024-04-01 23:21:04,888 - Starting task: func=<built-in function cos>, start=91663, end=99996, n_steps=8333
+2024-04-01 23:21:04,893 - Integration completed in 0.009424924850463867 seconds with 12 workers
+2024-04-01 23:21:04,893 - Starting integration with ThreadPoolExecutor and 13 workers
+2024-04-01 23:21:04,893 - Starting task: func=<built-in function cos>, start=0, end=7692, n_steps=7692
+2024-04-01 23:21:04,893 - Starting task: func=<built-in function cos>, start=7692, end=15384, n_steps=7692
+2024-04-01 23:21:04,893 - Starting task: func=<built-in function cos>, start=15384, end=23076, n_steps=7692
+2024-04-01 23:21:04,894 - Starting task: func=<built-in function cos>, start=23076, end=30768, n_steps=7692
+2024-04-01 23:21:04,894 - Starting task: func=<built-in function cos>, start=30768, end=38460, n_steps=7692
+2024-04-01 23:21:04,895 - Starting task: func=<built-in function cos>, start=38460, end=46152, n_steps=7692
+2024-04-01 23:21:04,895 - Starting task: func=<built-in function cos>, start=46152, end=53844, n_steps=7692
+2024-04-01 23:21:04,896 - Starting task: func=<built-in function cos>, start=53844, end=61536, n_steps=7692
+2024-04-01 23:21:04,896 - Starting task: func=<built-in function cos>, start=61536, end=69228, n_steps=7692
+2024-04-01 23:21:04,896 - Starting task: func=<built-in function cos>, start=69228, end=76920, n_steps=7692
+2024-04-01 23:21:04,896 - Starting task: func=<built-in function cos>, start=76920, end=84612, n_steps=7692
+2024-04-01 23:21:04,896 - Starting task: func=<built-in function cos>, start=84612, end=92304, n_steps=7692
+2024-04-01 23:21:04,897 - Starting task: func=<built-in function cos>, start=92304, end=99996, n_steps=7692
+2024-04-01 23:21:04,903 - Integration completed in 0.009388208389282227 seconds with 13 workers
+2024-04-01 23:21:04,903 - Starting integration with ProcessPoolExecutor and 13 workers
+2024-04-01 23:21:04,903 - Starting task: func=<built-in function cos>, start=0, end=7692, n_steps=7692
+2024-04-01 23:21:04,903 - Starting task: func=<built-in function cos>, start=7692, end=15384, n_steps=7692
+2024-04-01 23:21:04,904 - Starting task: func=<built-in function cos>, start=15384, end=23076, n_steps=7692
+2024-04-01 23:21:04,904 - Starting task: func=<built-in function cos>, start=23076, end=30768, n_steps=7692
+2024-04-01 23:21:04,904 - Starting task: func=<built-in function cos>, start=30768, end=38460, n_steps=7692
+2024-04-01 23:21:04,904 - Starting task: func=<built-in function cos>, start=38460, end=46152, n_steps=7692
+2024-04-01 23:21:04,905 - Starting task: func=<built-in function cos>, start=46152, end=53844, n_steps=7692
+2024-04-01 23:21:04,905 - Starting task: func=<built-in function cos>, start=53844, end=61536, n_steps=7692
+2024-04-01 23:21:04,905 - Starting task: func=<built-in function cos>, start=61536, end=69228, n_steps=7692
+2024-04-01 23:21:04,905 - Starting task: func=<built-in function cos>, start=69228, end=76920, n_steps=7692
+2024-04-01 23:21:04,906 - Starting task: func=<built-in function cos>, start=76920, end=84612, n_steps=7692
+2024-04-01 23:21:04,906 - Starting task: func=<built-in function cos>, start=84612, end=92304, n_steps=7692
+2024-04-01 23:21:04,907 - Starting task: func=<built-in function cos>, start=92304, end=99996, n_steps=7692
+2024-04-01 23:21:04,912 - Integration completed in 0.009441375732421875 seconds with 13 workers
+2024-04-01 23:21:04,912 - Starting integration with ThreadPoolExecutor and 14 workers
+2024-04-01 23:21:04,912 - Starting task: func=<built-in function cos>, start=0, end=7142, n_steps=7142
+2024-04-01 23:21:04,912 - Starting task: func=<built-in function cos>, start=7142, end=14284, n_steps=7142
+2024-04-01 23:21:04,913 - Starting task: func=<built-in function cos>, start=14284, end=21426, n_steps=7142
+2024-04-01 23:21:04,913 - Starting task: func=<built-in function cos>, start=21426, end=28568, n_steps=7142
+2024-04-01 23:21:04,913 - Starting task: func=<built-in function cos>, start=28568, end=35710, n_steps=7142
+2024-04-01 23:21:04,914 - Starting task: func=<built-in function cos>, start=35710, end=42852, n_steps=7142
+2024-04-01 23:21:04,914 - Starting task: func=<built-in function cos>, start=42852, end=49994, n_steps=7142
+2024-04-01 23:21:04,914 - Starting task: func=<built-in function cos>, start=49994, end=57136, n_steps=7142
+2024-04-01 23:21:04,914 - Starting task: func=<built-in function cos>, start=57136, end=64278, n_steps=7142
+2024-04-01 23:21:04,915 - Starting task: func=<built-in function cos>, start=64278, end=71420, n_steps=7142
+2024-04-01 23:21:04,915 - Starting task: func=<built-in function cos>, start=71420, end=78562, n_steps=7142
+2024-04-01 23:21:04,916 - Starting task: func=<built-in function cos>, start=78562, end=85704, n_steps=7142
+2024-04-01 23:21:04,916 - Starting task: func=<built-in function cos>, start=85704, end=92846, n_steps=7142
+2024-04-01 23:21:04,916 - Starting task: func=<built-in function cos>, start=92846, end=99988, n_steps=7142
+2024-04-01 23:21:04,921 - Integration completed in 0.009348392486572266 seconds with 14 workers
+2024-04-01 23:21:04,921 - Starting integration with ProcessPoolExecutor and 14 workers
+2024-04-01 23:21:04,922 - Starting task: func=<built-in function cos>, start=0, end=7142, n_steps=7142
+2024-04-01 23:21:04,922 - Starting task: func=<built-in function cos>, start=7142, end=14284, n_steps=7142
+2024-04-01 23:21:04,922 - Starting task: func=<built-in function cos>, start=14284, end=21426, n_steps=7142
+2024-04-01 23:21:04,922 - Starting task: func=<built-in function cos>, start=21426, end=28568, n_steps=7142
+2024-04-01 23:21:04,923 - Starting task: func=<built-in function cos>, start=28568, end=35710, n_steps=7142
+2024-04-01 23:21:04,923 - Starting task: func=<built-in function cos>, start=35710, end=42852, n_steps=7142
+2024-04-01 23:21:04,923 - Starting task: func=<built-in function cos>, start=42852, end=49994, n_steps=7142
+2024-04-01 23:21:04,924 - Starting task: func=<built-in function cos>, start=49994, end=57136, n_steps=7142
+2024-04-01 23:21:04,924 - Starting task: func=<built-in function cos>, start=57136, end=64278, n_steps=7142
+2024-04-01 23:21:04,924 - Starting task: func=<built-in function cos>, start=64278, end=71420, n_steps=7142
+2024-04-01 23:21:04,925 - Starting task: func=<built-in function cos>, start=71420, end=78562, n_steps=7142
+2024-04-01 23:21:04,925 - Starting task: func=<built-in function cos>, start=78562, end=85704, n_steps=7142
+2024-04-01 23:21:04,925 - Starting task: func=<built-in function cos>, start=85704, end=92846, n_steps=7142
+2024-04-01 23:21:04,926 - Starting task: func=<built-in function cos>, start=92846, end=99988, n_steps=7142
+2024-04-01 23:21:04,931 - Integration completed in 0.009453058242797852 seconds with 14 workers
+2024-04-01 23:21:04,931 - Starting integration with ThreadPoolExecutor and 15 workers
+2024-04-01 23:21:04,931 - Starting task: func=<built-in function cos>, start=0, end=6666, n_steps=6666
+2024-04-01 23:21:04,931 - Starting task: func=<built-in function cos>, start=6666, end=13332, n_steps=6666
+2024-04-01 23:21:04,932 - Starting task: func=<built-in function cos>, start=13332, end=19998, n_steps=6666
+2024-04-01 23:21:04,932 - Starting task: func=<built-in function cos>, start=19998, end=26664, n_steps=6666
+2024-04-01 23:21:04,932 - Starting task: func=<built-in function cos>, start=26664, end=33330, n_steps=6666
+2024-04-01 23:21:04,932 - Starting task: func=<built-in function cos>, start=33330, end=39996, n_steps=6666
+2024-04-01 23:21:04,933 - Starting task: func=<built-in function cos>, start=39996, end=46662, n_steps=6666
+2024-04-01 23:21:04,933 - Starting task: func=<built-in function cos>, start=46662, end=53328, n_steps=6666
+2024-04-01 23:21:04,933 - Starting task: func=<built-in function cos>, start=53328, end=59994, n_steps=6666
+2024-04-01 23:21:04,933 - Starting task: func=<built-in function cos>, start=59994, end=66660, n_steps=6666
+2024-04-01 23:21:04,933 - Starting task: func=<built-in function cos>, start=66660, end=73326, n_steps=6666
+2024-04-01 23:21:04,934 - Starting task: func=<built-in function cos>, start=73326, end=79992, n_steps=6666
+2024-04-01 23:21:04,934 - Starting task: func=<built-in function cos>, start=79992, end=86658, n_steps=6666
+2024-04-01 23:21:04,935 - Starting task: func=<built-in function cos>, start=86658, end=93324, n_steps=6666
+2024-04-01 23:21:04,935 - Starting task: func=<built-in function cos>, start=93324, end=99990, n_steps=6666
+2024-04-01 23:21:04,940 - Integration completed in 0.009377717971801758 seconds with 15 workers
+2024-04-01 23:21:04,940 - Starting integration with ProcessPoolExecutor and 15 workers
+2024-04-01 23:21:04,941 - Starting task: func=<built-in function cos>, start=0, end=6666, n_steps=6666
+2024-04-01 23:21:04,941 - Starting task: func=<built-in function cos>, start=6666, end=13332, n_steps=6666
+2024-04-01 23:21:04,942 - Starting task: func=<built-in function cos>, start=13332, end=19998, n_steps=6666
+2024-04-01 23:21:04,942 - Starting task: func=<built-in function cos>, start=19998, end=26664, n_steps=6666
+2024-04-01 23:21:04,942 - Starting task: func=<built-in function cos>, start=26664, end=33330, n_steps=6666
+2024-04-01 23:21:04,942 - Starting task: func=<built-in function cos>, start=33330, end=39996, n_steps=6666
+2024-04-01 23:21:04,943 - Starting task: func=<built-in function cos>, start=39996, end=46662, n_steps=6666
+2024-04-01 23:21:04,943 - Starting task: func=<built-in function cos>, start=46662, end=53328, n_steps=6666
+2024-04-01 23:21:04,943 - Starting task: func=<built-in function cos>, start=53328, end=59994, n_steps=6666
+2024-04-01 23:21:04,944 - Starting task: func=<built-in function cos>, start=59994, end=66660, n_steps=6666
+2024-04-01 23:21:04,944 - Starting task: func=<built-in function cos>, start=66660, end=73326, n_steps=6666
+2024-04-01 23:21:04,944 - Starting task: func=<built-in function cos>, start=73326, end=79992, n_steps=6666
+2024-04-01 23:21:04,944 - Starting task: func=<built-in function cos>, start=79992, end=86658, n_steps=6666
+2024-04-01 23:21:04,945 - Starting task: func=<built-in function cos>, start=86658, end=93324, n_steps=6666
+2024-04-01 23:21:04,946 - Starting task: func=<built-in function cos>, start=93324, end=99990, n_steps=6666
+2024-04-01 23:21:04,950 - Integration completed in 0.009276390075683594 seconds with 15 workers
+2024-04-01 23:21:04,950 - Starting integration with ThreadPoolExecutor and 16 workers
+2024-04-01 23:21:04,950 - Starting task: func=<built-in function cos>, start=0, end=6250, n_steps=6250
+2024-04-01 23:21:04,950 - Starting task: func=<built-in function cos>, start=6250, end=12500, n_steps=6250
+2024-04-01 23:21:04,951 - Starting task: func=<built-in function cos>, start=12500, end=18750, n_steps=6250
+2024-04-01 23:21:04,951 - Starting task: func=<built-in function cos>, start=18750, end=25000, n_steps=6250
+2024-04-01 23:21:04,951 - Starting task: func=<built-in function cos>, start=25000, end=31250, n_steps=6250
+2024-04-01 23:21:04,952 - Starting task: func=<built-in function cos>, start=31250, end=37500, n_steps=6250
+2024-04-01 23:21:04,952 - Starting task: func=<built-in function cos>, start=37500, end=43750, n_steps=6250
+2024-04-01 23:21:04,952 - Starting task: func=<built-in function cos>, start=43750, end=50000, n_steps=6250
+2024-04-01 23:21:04,952 - Starting task: func=<built-in function cos>, start=50000, end=56250, n_steps=6250
+2024-04-01 23:21:04,953 - Starting task: func=<built-in function cos>, start=56250, end=62500, n_steps=6250
+2024-04-01 23:21:04,953 - Starting task: func=<built-in function cos>, start=62500, end=68750, n_steps=6250
+2024-04-01 23:21:04,953 - Starting task: func=<built-in function cos>, start=68750, end=75000, n_steps=6250
+2024-04-01 23:21:04,954 - Starting task: func=<built-in function cos>, start=75000, end=81250, n_steps=6250
+2024-04-01 23:21:04,954 - Starting task: func=<built-in function cos>, start=81250, end=87500, n_steps=6250
+2024-04-01 23:21:04,954 - Starting task: func=<built-in function cos>, start=87500, end=93750, n_steps=6250
+2024-04-01 23:21:04,955 - Starting task: func=<built-in function cos>, start=93750, end=100000, n_steps=6250
+2024-04-01 23:21:04,959 - Integration completed in 0.00939798355102539 seconds with 16 workers
+2024-04-01 23:21:04,959 - Starting integration with ProcessPoolExecutor and 16 workers
+2024-04-01 23:21:04,959 - Starting task: func=<built-in function cos>, start=0, end=6250, n_steps=6250
+2024-04-01 23:21:04,959 - Starting task: func=<built-in function cos>, start=6250, end=12500, n_steps=6250
+2024-04-01 23:21:04,960 - Starting task: func=<built-in function cos>, start=12500, end=18750, n_steps=6250
+2024-04-01 23:21:04,960 - Starting task: func=<built-in function cos>, start=18750, end=25000, n_steps=6250
+2024-04-01 23:21:04,961 - Starting task: func=<built-in function cos>, start=25000, end=31250, n_steps=6250
+2024-04-01 23:21:04,961 - Starting task: func=<built-in function cos>, start=31250, end=37500, n_steps=6250
+2024-04-01 23:21:04,961 - Starting task: func=<built-in function cos>, start=37500, end=43750, n_steps=6250
+2024-04-01 23:21:04,962 - Starting task: func=<built-in function cos>, start=43750, end=50000, n_steps=6250
+2024-04-01 23:21:04,962 - Starting task: func=<built-in function cos>, start=50000, end=56250, n_steps=6250
+2024-04-01 23:21:04,962 - Starting task: func=<built-in function cos>, start=56250, end=62500, n_steps=6250
+2024-04-01 23:21:04,963 - Starting task: func=<built-in function cos>, start=62500, end=68750, n_steps=6250
+2024-04-01 23:21:04,963 - Starting task: func=<built-in function cos>, start=68750, end=75000, n_steps=6250
+2024-04-01 23:21:04,963 - Starting task: func=<built-in function cos>, start=75000, end=81250, n_steps=6250
+2024-04-01 23:21:04,964 - Starting task: func=<built-in function cos>, start=81250, end=87500, n_steps=6250
+2024-04-01 23:21:04,964 - Starting task: func=<built-in function cos>, start=87500, end=93750, n_steps=6250
+2024-04-01 23:21:04,964 - Starting task: func=<built-in function cos>, start=93750, end=100000, n_steps=6250
+2024-04-01 23:21:04,969 - Integration completed in 0.009654521942138672 seconds with 16 workers
